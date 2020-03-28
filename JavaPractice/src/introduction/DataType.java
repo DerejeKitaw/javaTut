@@ -1,4 +1,7 @@
 package introduction;
+
+import java.util.Date;
+
 /**
  * 1- primitive
  * 
@@ -15,7 +18,7 @@ public class DataType {
 		// Short cut Sout +control + space
 		System.out.println(age);
 		// System.out.println(myAge);// Java variable must be initialized before "use"
-
+	
 	}
 
 }
