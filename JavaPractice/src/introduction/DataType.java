@@ -1,6 +1,10 @@
 package introduction;
+/**
+ * 1- primitive
+ * 
+ * 2 - Reference
+ */
 
-import java.util.Date;
 
 public class DataType {
 
